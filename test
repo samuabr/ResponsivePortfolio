@@ -1,0 +1,8 @@
+ <div class="card" style="width: 18rem;">
+        <img src="sam.jpg" class="card-img-top" alt="me">
+        <div class="card-body">
+          <h5 class="card-title">Bio</h5>
+          <p class="card-text">My name is Samuel Abraha. I am working as senior IT Support for Shoppersdrugmart/Loblaw.</p>
+          
+        </div>
+      </div>
